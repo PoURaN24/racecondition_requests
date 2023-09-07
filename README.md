@@ -3,6 +3,8 @@
 A Python script for making HTTP/HTTPS requests simultaneously using multithreading. Created mostly in order to achieve race condition attacks. 
 There is also functionality for saving the responses in order to be checked offline.
 
+Works fine with python 3+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -32,3 +34,5 @@ This is created for the purpose of achieving race condition attacks. This can be
 
    ```bash
    git clone https://github.com/PoURaN24/racecondition_requests.git
+
+2. Run it using python.. :D
